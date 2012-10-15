@@ -1,0 +1,127 @@
+/*
+Theme Name: FedeHartman Reset
+Site URI: http://fedehartman.com
+Coding Date: 2008 - 2012
+*/
+
+/*--| NORMALIZE
+------------------------------------------------------------------------------------------------------------------------ |--*/
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video, img {
+	margin: 0px;
+	padding: 0px;
+	vertical-align: baseline;
+	font-family: inherit;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	text-transform: none;
+	text-decoration: none;
+	line-height: normal;
+	font-variant: normal;
+	white-space: normal;
+	border: 0;
+	list-style-image: none;
+	list-style-type: none;
+	}
+
+audio,
+canvas,
+video {
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	}
+
+audio:not([controls]) {display: none; height: 0;}
+
+
+
+/*--| HTML 5
+------------------------------------------------------------------------------------------------------------------------ |--*/
+
+
+article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, small {display: block;}
+
+
+
+/*--| IMG
+------------------------------------------------------------------------------------------------------------------------ |--*/
+
+img {border: none; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;}
+img a {border: none;}
+
+
+
+/*--| LINKS
+------------------------------------------------------------------------------------------------------------------------ |--*/
+
+a, a:link, a:visited, a:hover, a:active {  
+	outline-style: none;
+	outline-style: 0;
+	outline-width: 0px;
+    text-decoration: none;  
+	}  
+
+
+
+/*--| BOX
+------------------------------------------------------------------------------------------------------------------------ |--*/
+
+.left {float: left}
+.right {float: right}
+span.none, hr, .none {display: none;}
+table {border-collapse: collapse; border-spacing: 0;}
+
+
+
+/*--| FORM
+------------------------------------------------------------------------------------------------------------------------ |--*/
+
+input, select {vertical-align: middle;}
+:focus {outline: 0;}
+input, textarea {outline-style: none; outline-width: 0px;}
+button::-moz-focus-inner,
+input::-moz-focus-inner {border: 0; padding: 0;}
+textarea {overflow: auto; vertical-align: top;}
+
+
+
+/*--| TYPOGRAPHY
+------------------------------------------------------------------------------------------------------------------------ |--*/
+
+html {font-size: 16px;}
+body {font-size: 62.5%;}
+html,
+button,
+input,
+select,
+textarea {font-family: sans-serif;}
+strong {font-weight: 700;}
+em {font-style: italic;}
+span.versales {font-variant: small-caps;}
+del {text-decoration: line-through;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after, q:before, q:after {
+	content:'';
+	content: none;
+	}
+
+
+
+/*--| BODY
+------------------------------------------------------------------------------------------------------------------------ |--*/
+
+html {
+	height: 100%;
+	overflow-x: hidden;
+	}
+
+body {
+	height: auto;
+	overflow-x: hidden;
+	}
+
+
+
+/*--| ----------------------------------------------------------------------------------------------------------------- |--*/
