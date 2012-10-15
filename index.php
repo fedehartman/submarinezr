@@ -21,7 +21,7 @@ Some stuff made by Initializr | http://www.initializr.com/
 
 <head>
 
-    <title></title>
+    <title>Submarinezr</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
