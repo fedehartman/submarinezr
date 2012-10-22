@@ -1,0 +1,57 @@
+/* IE */
+
+
+/*--| WARNING
+------------------------------------------------------------------------------------------------------------------------ |--*/
+
+.ie-warning {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	z-index: 999999999999;
+	}
+
+.ie-warning_layout {
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+	opacity: 0.85;
+	position: absolute;
+	z-index: 10;
+	}
+
+.ie-warning_body {
+	padding: 30px 40px 0px 40px;
+	background-color: #d9c80b;
+	position: absolute;
+	z-index: 20;
+	width: 520px;
+	height: 90px;
+	left: 50%;
+	top: 50%;
+	margin: -120px 0px 0px -280px;
+	}
+
+.ie-warning_body p {
+	font: normal 1.5em/1.7em "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #0d0d0d;	
+	}
+
+.ie-warning_body p a {
+	color: #d9c80b;
+	background-color: #0d0d0d;
+	padding: 2px 5px 2px 5px;
+	margin: 0px -2px 0px -2px;
+	}
+
+
+
+
+/*--| HACKS
+------------------------------------------------------------------------------------------------------------------------ |--*/
+
+
+
+
+
+/*--| ------------------------------------------------------------------------------------------------------------------ |--*/

@@ -37,20 +37,14 @@ Some stuff made by Initializr | http://www.initializr.com/
     <link rel="stylesheet" href="css/style.css">
 
     <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <!--[if IE]><link href="css/ie.css" rel="stylesheet"><![endif]-->
+
 
 </head>
 
 <body>
 
-
-
-<!--| IE WARNING
-==================================================================================================== |-->
-
-    <!--[if lt IE 9]>
-        <p class="chromeframe">Estás usando un navegador viejo. <a href="http://browsehappy.com/">Actualizalo aquí</a> para ver correctamente el contenido de este y otros sitios</p>
-    <![endif]-->
-
+<?php include("ie.php"); ?>
 
 
 <!--| HEADER
@@ -66,7 +60,7 @@ Some stuff made by Initializr | http://www.initializr.com/
 ======================================================================================================================== |-->
 
 <div id="main">
-    Hola, qué tal.
+    Nothing is real.
 </div>
 
 
