@@ -35,6 +35,8 @@ video {
 
 audio:not([controls]) {display: none; height: 0;}
 
+i {display: inline-block; vertical-align: text-top;}
+
 
 
 /*--| HTML 5
