@@ -4,7 +4,6 @@
 Site Name: 
 Credits: http://www.com/humans.txt
 --> 
---> 
 
 <html lang="es-UY">
 
@@ -18,7 +17,9 @@ Credits: http://www.com/humans.txt
 	<meta name="description" content="">
 	<meta name="author" content="http://www.com/humans.txt" />
 	<meta name="robots" content="all" /> 
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="viewport" content="width=device-width">
+	<meta name="apple-mobile-web-app-capable" content="yes" />
 
 	<link rel="shortcut icon" href="img/favicons/favicon.ico" />
 	<link rel="apple-touch-icon" href="img/favicons/apple-touch-icon.png" />
@@ -26,6 +27,8 @@ Credits: http://www.com/humans.txt
 	<link rel="apple-touch-icon" sizes="72x72" href="img/favicons/apple-touch-icon-72x72.png" />
 	<link rel="apple-touch-icon" sizes="114x114" href="img/favicons/apple-touch-icon-114x144.png" />
 	<link rel="apple-touch-icon" sizes="144x144" href="img/favicons/apple-touch-icon-144x144.png" />
+
+	<link rel="author" href="humans.txt" />
 
 	<link rel="stylesheet" href="css/reset.css">
 	<link rel="stylesheet" href="css/style.css">
