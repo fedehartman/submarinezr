@@ -1,7 +1,7 @@
 /*
 Theme Name: FedeHartman Reset
 Site URI: http://fedehartman.com
-Coding Date: 2008 - 2012
+Coding Date: 2008 - 2013
 */
 
 /*--| NORMALIZE
@@ -92,7 +92,12 @@ textarea {overflow: auto; vertical-align: top;}
 /*--| TYPOGRAPHY
 ------------------------------------------------------------------------------------------------------------------------ |--*/
 
-html {font-size: 16px;}
+html {
+	font-size: 16px;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+	}
+
 body {font-size: 62.5%;}
 html,
 button,

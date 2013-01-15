@@ -1,15 +1,35 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
+# NOMBRE DEL SITIO
 
-    <name> -- <role> -- <twitter>
+iuGo
+Website: http://www.iugo.com.uy/
+Contact: info [at] iugo.com.uy
+From: Montevideo, Uruguay
 
-# THANKS
 
-    <name>
+#For this project:
+
+	Chief: 
+	Contact:  [at] iugo.com.uy
+	From: Montevideo, Uruguay
+
+	Chief Designer & Project Manager: 
+	Contact:  [at] iugo.com.uy
+	From: Montevideo, Uruguay
+
+	HTML/CSS Coding & some JS Programming: n
+	Contact: [at] iugo.com.uy
+	From: Montevideo, Uruguay
+
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+	Site Name: 
+	Site URI: http://www..com/
+	Version: 1.0
+	Design Date: Dic | 2012
+	Coding Date: Dic | 2012
+	HTML5, CSS3.
+	Made with: Photoshop, Sublime Text & Chrome.

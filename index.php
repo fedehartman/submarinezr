@@ -32,10 +32,10 @@ Credits: http://www.com/humans.txt
 
 	<link rel="stylesheet" href="css/reset.css">
 	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/mediaqueries.css">
 
 	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 	<!--[if IE]><link href="css/ie.css" rel="stylesheet"><![endif]-->
-
 
 </head>
 
