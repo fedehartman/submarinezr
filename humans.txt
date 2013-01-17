@@ -32,4 +32,4 @@ From: Montevideo, Uruguay
 	Design Date: Dic | 2012
 	Coding Date: Dic | 2012
 	HTML5, CSS3.
-	Made with: Photoshop, Sublime Text & Chrome.
+	Made with: Photoshop, Sublime Text, Chrome & Love.
