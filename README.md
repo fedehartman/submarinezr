@@ -1,6 +1,5 @@
-Submarinezr is HTML/CSS/JS Framework to start writing the code for your website.
-
-  The vast majority of the files are based on years of experience in writing HTML/CSS/JS.
+#Submarinezr is HTML/CSS/JS Framework
+to start writing the code for your website.  The vast majority of the files are based on years of experience in writing HTML/CSS/JS.
 
 	Some other things are based on other frameworks like:
 	· Initializr | http://www.initializr.com/
@@ -8,9 +7,8 @@ Submarinezr is HTML/CSS/JS Framework to start writing the code for your website.
 	· Boilerplate | http://html5boilerplate.com/
 
 
-#Idea and direction
+#Idea and direction: Fede Hartman
 
-	Fede Hartman
 	Contact: fede [at] fedehartman.com
 	Website: fedehartman.com
 	From: Montevideo, Uruguay
@@ -48,5 +46,4 @@ Submarinezr is HTML/CSS/JS Framework to start writing the code for your website.
 	Contact: guillermo [at] iugo.com.uy
 	From: Montevideo, Uruguay
 
-2012 - Fede Hartman
-2013 - Fede Hartman & Iugo.
+2012 - Fede Hartman | 2013 - Fede Hartman & Iugo.
