@@ -3,7 +3,7 @@
 
 # NOMBRE DEL SITIO
 
-iuGo
+Iugo
 Website: http://www.iugo.com.uy/
 Contact: info [at] iugo.com.uy
 From: Montevideo, Uruguay
@@ -19,7 +19,7 @@ From: Montevideo, Uruguay
 	Contact:  [at] iugo.com.uy
 	From: Montevideo, Uruguay
 
-	HTML/CSS Coding & some JS Programming: n
+	HTML/CSS Coding & some JS Programming: 
 	Contact: [at] iugo.com.uy
 	From: Montevideo, Uruguay
 
@@ -33,3 +33,4 @@ From: Montevideo, Uruguay
 	Coding Date: Dic | 2012
 	HTML5, CSS3.
 	Made with: Photoshop, Sublime Text, Chrome & Love.
+	Base on: Submarinzr - https://github.com/fedehartman/submarinezr
