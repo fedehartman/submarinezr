@@ -1,4 +1,4 @@
-#Submarinezr is HTML/CSS/JS Framework
+#Submarinezr is a HTML/CSS/JS Framework
 to start writing the code for your website.  The vast majority of the files are based on years of experience in writing HTML/CSS/JS.
 
 	Some other things are based on other frameworks like:
